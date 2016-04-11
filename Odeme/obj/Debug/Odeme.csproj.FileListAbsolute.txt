@@ -1,0 +1,7 @@
+C:\Users\huseyin.altunbas\Desktop\NetLine\Projeler\Odeme\Odeme\Odeme\bin\Debug\Odeme.pdb
+C:\Users\huseyin.altunbas\Desktop\NetLine\Projeler\Odeme\Odeme\Odeme\obj\Debug\Odeme.csprojResolveAssemblyReference.cache
+C:\Users\huseyin.altunbas\Desktop\NetLine\Projeler\Odeme\Odeme\Odeme\obj\Debug\Odeme.pdb
+C:\Users\huseyin.altunbas\Desktop\NetLine\Projeler\Odeme\Odeme\Odeme\bin\Debug\Odeme.exe
+C:\Users\huseyin.altunbas\Desktop\NetLine\Projeler\Odeme\Odeme\Odeme\obj\Debug\Odeme.exe
+C:\Users\huseyin.altunbas\Dropbox\NetLineProjeler\Projeler\Odeme\Odeme\Odeme\obj\Debug\Odeme.exe
+C:\Users\huseyin.altunbas\Dropbox\NetLineProjeler\Projeler\Odeme\Odeme\Odeme\obj\Debug\Odeme.pdb

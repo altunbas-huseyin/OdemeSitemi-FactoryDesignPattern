@@ -1,0 +1,26 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+
+namespace Odeme.Bankalar
+{
+    public class YBank : IBank
+    {
+        int IBank.TaksitYap()
+        {
+            return 4;
+        }
+
+        public string BankaAdi()
+        {
+            return "YBANK";
+        }
+
+        public decimal Indirim()
+        {
+            // Burada WebServisleri, veritabanında okuma gibi işlemler yapılabilir. Biz örnek uygulama olduğu için direk değer dönüyoruz.
+            return 5;
+        }
+    }
+}
